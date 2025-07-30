@@ -1,0 +1,29 @@
+body{
+    justify-content: center;
+    align-items: center;
+    justify-items:  center;
+    font-family: sans-serif;
+    display: flex;
+
+    padding: 3rem;
+    margin: auto;
+}
+.main{
+    margin:auto;
+    padding:2rem;
+}
+#Mode{
+    padding:2rem;
+
+    margin:1.5rem;
+}
+button{
+    padding: 1rem 2rem;
+    justify-self: center;
+    border-radius: 48px;
+    justify-items: center;
+}
+.darkmode{
+    background-color: #000000;
+    color: white;
+}
